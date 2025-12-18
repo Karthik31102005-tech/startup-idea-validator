@@ -1,0 +1,5 @@
+{
+  "name": "FoundersTruth",
+  "description": "An elite startup analyst tool that provides brutally honest evaluations of startup ideas using the Gemini 3 Pro model, optimized for venture-scale truth and execution reality.",
+  "requestFramePermissions": []
+}
